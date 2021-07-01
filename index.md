@@ -1,94 +1,76 @@
-## Welcome to GitHub Pagesss
+<h1>应届生求职模板</h1>
 
-You can use the [editor on GitHub](https://github.com/Albert-say/123/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
----
-layout: cv
-title: 张三四
----
-<div style="margin-bottom: 40px;margin-top: 20px">
-    <div style="width:80%; display:inline-block;vertical-align: top;">
-        <div style="text-align:center">
-            <h3 style="font-size: 30px">
-            张三四
-            </h3>
-        </div>
-        <div id="contact-info">
-            <i class="fi-telephone" style="margin-left:1em"></i>
-            <a href="#" style="margin-left:0.5em">13100001111</a>
-            <i class="fi-mail" style="margin-left:1em"></i>
-            <a href="#" style="margin-left:0.5em"> xxx@163.com</a>
-            <br>
-            <i class="fi-home" style="margin-left:1em"></i>
-            <a href="#" style="margin-left:0.5em">https://blog.csdn.net/Kevinhanser</a>
-
-            <i class="fa fa-user" style="margin-left:1em"></i>
-            <a href="#" style="margin-left:0.5em" font-size="10px">期望：技术岗位</a>
-        </div>
-    </div>
-    <div style="float: right;display: flex；vertical-align: top;">
-        <div style="width:60px;height:80px;">
-            <img src="re.jpg" style="width:60px;height:80px">
-        </div>
-    </div>
+<div style="float:right">
+    <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
 </div>
 
+**基本信息：** x某某 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 山东青岛
 
-## 技术技能
+**手&ensp;机&ensp;号：** 178 xxxx xxxx&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** congsw@foxmail.com
 
-1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
-2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
-3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
-4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
-5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
-6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
+**证&emsp;&emsp;书：** 英语四/六级、计算机二级&emsp;&emsp;&emsp;&emsp;&ensp;**实习经验：** x年
 
+**GitHub：** https://github.com/congshengwu 
 
-## 教育经历
+**CSDN：** &ensp;https://blog.csdn.net/c1024197824
 
-### __中国西南大学__ `2018.9 -`
+<h1>求职意向</h1>
 
-1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
-2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
-3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
-4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
-5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
-6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
+**期望职位：** 安卓开发工程师&emsp;&emsp;&emsp;&emsp;**期望薪资：** 0k-1000k
 
-### __北京大学__ `2016.9 - 2018.5`
+<h1>教育背景</h1>
 
-1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
-2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
-3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
-4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
-5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
-6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
+xxxx大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.09-2019.06&emsp;&emsp;&emsp;&emsp;&emsp;电子信息工程
 
-### __清华大学__ `2013.9 - 2016.5`
+<h1>实习经历</h1>
 
-1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
-2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
-3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
-4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
-5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
-6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
-    
-## 个人项目
+**公司：** xxxxxx信息科技有限公司&emsp;&emsp;**职位：** 安卓开发工程师&emsp;&emsp;**时间：** 2018.03-2019.03
+<br/>
+**项目名称：** xxxxxxxxxx
+<br/>
+**项目简介：** xxxxxxxxxx
+<br/>
+**主要工作：**
+ - xxxxxxxxxxxx。
+ - xxxxxxxxxxxx。
+ - xxxxxxxxxxxx。
+ - 技术栈：
+   - 基于谷歌AAC框架实现MVVM应用架构
+   - 网络请求：Retrofit+OkHttp+RxJava
+   - Json解析：谷歌Gson
+   - XML/Html解析：Jsoup
+   - 图片加载：Glide
+   - UI及数据加载相关：DataBinding、Paging、自定义View
 
-### __GITHUB__ `2018.9 -`
+<h1>个人作品</h1>
 
-1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
-2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
-3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
-4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
-5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
-6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
+**名称：** xxxx&emsp;&emsp;
+<br/>
+**简介：** xxxxxxxxxxxxxxxxxxxx。
 
+**名称：** yyyy 
+<br/>
+**简介：** yyyyyyyyyyyyyyyyyyyy。
 
+**名称：** zzzz
+<br/>
+**简介：** zzzzzzzzzzzzzzzzzzzz。
 
-<!-- ### Footer
+<h1>技能清单</h1>
 
-Last updated: May 2013 -->
+以下均为我熟练使用的技能：
 
+- 编程语言：Java、C
+- 安卓开发：熟悉安卓UI设计、布局、自定义控件开发，安卓数据存储SharedPreferences、文件等，微博、微信等第三方SDK集成，处理ANR、OOM等
+- 安卓框架：Gson、FastJson、谷歌AAC、EventBus、Glide、Retrofit、RxJava、OkHttp、Jsoup等
+- 其他：正则表达式、Git、SVN等
+
+以下是我接触并了解的技能：
+
+&emsp;&emsp;&emsp;Kotlin（学习中）、Linux简单命令、Java Servlet、Mysql、Html、爬虫等等
+
+<h1>自我评价</h1>
+
+&emsp;&emsp;我是一个热爱技术热爱编程的人，大学四年自学编程，做过很多小项目（贪吃蛇、计算器、简单的数据库读取录入系统等等），上架了3款个人开发的安卓小应用，各应用市场累计60多万的下载量，开源了几个小项目并得到了一些star，参与过两个商业安卓应用的开发，其中在开发“猫博”App过程中积累了我安卓开发的大部分经验和学习方法，真是受益匪浅。
+<br/>
+&emsp;&emsp;我希望在以后的工作中，深度上能学习掌握更多关于安卓开发的高级知识及数据结构算法；广度上能扩宽自己的技术栈，如前端、后端、混合开发以及其他比较新潮有趣的技术等；高度上希望经过未来几年的职业生涯发展，能成为软件架构师级的技术专家。
