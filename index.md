@@ -1,30 +1,28 @@
-<h1>应届生求职模板</h1>
+<h1>个人简介</h1>
 
-<div style="float:right">
-    <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
-</div>
 
-**基本信息：** x某某 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 山东青岛
 
-**手&ensp;机&ensp;号：** 178 xxxx xxxx&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** congsw@foxmail.com
+**基本信息：** 申澳宇 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北石家庄
 
-**证&emsp;&emsp;书：** 英语四/六级、计算机二级&emsp;&emsp;&emsp;&emsp;&ensp;**实习经验：** x年
+**Q&ensp;Q&ensp;号：** 2134946223&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** 2134946223@qq.com
 
-**GitHub：** https://github.com/congshengwu 
 
-**CSDN：** &ensp;https://blog.csdn.net/c1024197824
+
+**GitHub：** https://github.com/Albert-say 
+
+**博客园：** &ensp;https://home.cnblogs.com/u/shenaoyu
 
 <h1>求职意向</h1>
 
-**期望职位：** 安卓开发工程师&emsp;&emsp;&emsp;&emsp;**期望薪资：** 0k-1000k
+**期望职位：** 安卓开发工程师&emsp;&emsp;&emsp;&emsp;**期望薪资：** ###
 
 <h1>教育背景</h1>
 
-xxxx大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.09-2019.06&emsp;&emsp;&emsp;&emsp;&emsp;电子信息工程
+xxxx大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.09-&emsp;&emsp;&emsp;&emsp;&emsp;软件工程
 
 <h1>实习经历</h1>
 
-**公司：** xxxxxx信息科技有限公司&emsp;&emsp;**职位：** 安卓开发工程师&emsp;&emsp;**时间：** 2018.03-2019.03
+**公司：** ######&emsp;&emsp;**职位：** ######&emsp;&emsp;**时间：** ######
 <br/>
 **项目名称：** xxxxxxxxxx
 <br/>
@@ -44,17 +42,17 @@ xxxx大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.09-2019.06&emsp;&emsp;&emsp;&emsp;&
 
 <h1>个人作品</h1>
 
-**名称：** xxxx&emsp;&emsp;
+**名称：** 浅记&emsp;&emsp;
 <br/>
-**简介：** xxxxxxxxxxxxxxxxxxxx。
+**简介：** 安卓记事本。
 
-**名称：** yyyy 
+**名称：** 河北省重大需求征集 
 <br/>
-**简介：** yyyyyyyyyyyyyyyyyyyy。
+**简介：** 该作品使用了MVC设计模式，mysql数据库，Servlet、jquery ajax的技术上制作的河北重大需求系统征集系统，并对数据库进行相应操作。。
 
-**名称：** zzzz
+**名称：** 疫情监控系统
 <br/>
-**简介：** zzzzzzzzzzzzzzzzzzzz。
+**简介：** 该作品用python爬取技术每天从腾讯疫情网上爬取对应的数据，经过数据处理之后存入到数据库，最后用flask+echarts进行可视化展示。
 
 <h1>技能清单</h1>
 
