@@ -2,7 +2,7 @@
 
 
 
-**基本信息：** 申澳宇 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北石家庄
+**基本信息：** 申澳宇 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北省石家庄市
 
 **Q&ensp;Q&ensp;号：** 2134946223&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** 2134946223@qq.com
 
